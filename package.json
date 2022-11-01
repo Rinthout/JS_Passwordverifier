@@ -1,0 +1,18 @@
+{
+  "name": "opdracht_js_tdd_passwordverifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "roland": "^1.0.1"
+  }
+}
